@@ -320,7 +320,7 @@ namespace Pokemon_Shuffle_Hack
             button1.Text = "Charger un savedata.bin";
             button2.Text = "99999 Pièces + 150 Joyaux";
             button3.Text = "99 Objets (Pas de superflus)";
-            button4.Text = "99 Couers (Pas de superflus)";
+            button4.Text = "99 Coeurs (Pas de superflus)";
             button5.Text = "99 Méga-Turbo (Pas de superflus)";
             button6.Text = "Capturer tous les Pokémon (Partie 1)";
             button7.Text = "Capturer tous les Pokémon (Partie 2)";
