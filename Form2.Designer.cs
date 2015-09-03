@@ -45,7 +45,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(160, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "open";
+            this.button1.Text = "Open";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -69,7 +69,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(350, 23);
             this.button2.TabIndex = 3;
-            this.button2.Text = "fix";
+            this.button2.Text = "Fix";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -79,7 +79,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(160, 23);
             this.button3.TabIndex = 4;
-            this.button3.Text = "open";
+            this.button3.Text = "Open";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -92,7 +92,7 @@
             this.groupBox1.Size = new System.Drawing.Size(172, 79);
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "[ corrupt \"OLD\" save ]";
+            this.groupBox1.Text = "[Corrupt \"Old\" Save]";
             // 
             // groupBox2
             // 
@@ -104,7 +104,7 @@
             this.groupBox2.Size = new System.Drawing.Size(172, 79);
             this.groupBox2.TabIndex = 6;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "[ good \"LATEST\" save ]";
+            this.groupBox2.Text = "[Good \"Latest\" Save]";
             // 
             // Form2
             // 

@@ -215,13 +215,13 @@ namespace Pokemon_Shuffle_Hack
         {
             BLKDTH_set_data1();
             
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data2();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button11_Click(object sender, EventArgs e)
@@ -235,55 +235,55 @@ namespace Pokemon_Shuffle_Hack
             BLKDTH_set_data7();
             BLKDTH_set_data8();
             BLKDTH_set_data9();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data3();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data4();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data5();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data6();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data7();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data8();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
             BLKDTH_set_data9();
-            MessageBox.Show("Patching done ...");
+            MessageBox.Show("Patching done!");
         }
 
         private void germanToolStripMenuItem_Click(object sender, EventArgs e)
         {
             button1.Text="savedata.bin laden";
-            button2.Text = "99999 Münzen + 150 Klunker";
+            button2.Text = "99999 Münzen + 150 Klunker (Kein Überschuss)";
             button3.Text = "99 Gegenstände (Kein Überschuss)";
             button4.Text = "99 Herzen / Versuche (Kein Überschuss)";
             button5.Text = "99 Mega-Auslöser (Kein Überschuss)";
@@ -301,16 +301,16 @@ namespace Pokemon_Shuffle_Hack
         private void englishToolStripMenuItem_Click(object sender, EventArgs e)
         {
             button1.Text = "Open savedata.bin";
-            button2.Text = "99999 Coins + 150 Diamonds";
+            button2.Text = "99999 Coins + 150 Diamonds (No Overflow)";
             button3.Text = "99 Items (No Overflow)";
-            button4.Text = "99 Hearts, (No Overflow)";
-            button5.Text = "99 Mega-Speedups, (No Overflow)";
+            button4.Text = "99 Hearts (No Overflow)";
+            button5.Text = "99 Mega-Speedups (No Overflow)";
             button6.Text = "Caught All Pokemon (Table 1)";
             button7.Text = "Caught All Pokemon (Table 2)";
             button8.Text = "Caught All Pokemon (Table 3)";
             button9.Text = "Pokemon caught become Level 10";
             button10.Text = "Unlock All Megas";
-            button11.Text = "Patch all";
+            button11.Text = "Patch All";
 
             toolStripSplitButton1.Text = "Language";
         }
@@ -318,7 +318,7 @@ namespace Pokemon_Shuffle_Hack
         private void frenchToolStripMenuItem_Click(object sender, EventArgs e)
         {
             button1.Text = "Charger un savedata.bin";
-            button2.Text = "99999 Pièces + 150 Joyaux";
+            button2.Text = "99999 Pièces + 150 Joyaux (Pas de superflus)";
             button3.Text = "99 Objets (Pas de superflus)";
             button4.Text = "99 Coeurs (Pas de superflus)";
             button5.Text = "99 Méga-Turbo (Pas de superflus)";

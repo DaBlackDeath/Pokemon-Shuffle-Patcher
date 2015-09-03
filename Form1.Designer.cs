@@ -74,7 +74,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(250, 23);
             this.button2.TabIndex = 2;
-            this.button2.Text = "99999 Coins + 150 Diamonds, no overflow";
+            this.button2.Text = "99999 Coins + 150 Diamonds (No Overflow)";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -94,7 +94,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(250, 23);
             this.button4.TabIndex = 4;
-            this.button4.Text = "99 Hearts, (No Overflow)";
+            this.button4.Text = "99 Hearts (No Overflow)";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -104,7 +104,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(250, 23);
             this.button5.TabIndex = 5;
-            this.button5.Text = "99 Mega-Speedups, (No Overflow)";
+            this.button5.Text = "99 Mega-Speedups (No Overflow)";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
@@ -197,7 +197,7 @@
             this.englishToolStripMenuItem.Image = global::Pokemon_Shuffle_Hack.Properties.Resources.usa;
             this.englishToolStripMenuItem.Name = "englishToolStripMenuItem";
             this.englishToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.englishToolStripMenuItem.Text = "english";
+            this.englishToolStripMenuItem.Text = "English";
             this.englishToolStripMenuItem.Click += new System.EventHandler(this.englishToolStripMenuItem_Click);
             // 
             // germanToolStripMenuItem
@@ -205,7 +205,7 @@
             this.germanToolStripMenuItem.Image = global::Pokemon_Shuffle_Hack.Properties.Resources.german;
             this.germanToolStripMenuItem.Name = "germanToolStripMenuItem";
             this.germanToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.germanToolStripMenuItem.Text = "german";
+            this.germanToolStripMenuItem.Text = "German";
             this.germanToolStripMenuItem.Click += new System.EventHandler(this.germanToolStripMenuItem_Click);
             // 
             // frenchToolStripMenuItem
@@ -213,7 +213,7 @@
             this.frenchToolStripMenuItem.Image = global::Pokemon_Shuffle_Hack.Properties.Resources.french;
             this.frenchToolStripMenuItem.Name = "frenchToolStripMenuItem";
             this.frenchToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.frenchToolStripMenuItem.Text = "french";
+            this.frenchToolStripMenuItem.Text = "Français";
             this.frenchToolStripMenuItem.Click += new System.EventHandler(this.frenchToolStripMenuItem_Click);
             // 
             // toolStripButton1
@@ -249,7 +249,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Pokemon Shuffle Patch - v2a";
+            this.Text = "Pokemon Shuffle Editor v2a";
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
